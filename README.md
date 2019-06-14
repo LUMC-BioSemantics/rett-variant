@@ -1,5 +1,5 @@
 # Semantic data model of rett-variant
-_To make genetic varaint data Interoperable (the 'I' in FAIR). Version 1.0. License CC0._
+_To make genetic varaint data Interoperable (the 'I' in FAIR). Version 1.0. License CC-BY-4.0._
 
 ## Feedback
 Your feedback is more than welcome it will help us improve our semantic data model. Please use [github issues](https://github.com/LUMC-BioSemantics/ERN-common-data-elements/issues) to provide your feedback. If you are new to github please see [this video](https://www.youtube.com/watch?v=TJlYiMp8FuY) to know more about github issues.   
